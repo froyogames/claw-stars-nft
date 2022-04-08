@@ -1,1 +1,2 @@
-**Froyo - ClawStar Contract**
+# **Froyo - ClawStar Contract**
+ClawStar Contract
